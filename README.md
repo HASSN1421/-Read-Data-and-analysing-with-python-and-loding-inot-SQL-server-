@@ -180,7 +180,9 @@
 
 
         #checking in sql server and rename the table name  and add index column
-   ![last](https://github.com/user-attachments/assets/577ebd7f-4d89-40c0-8cfa-2d46e3bfbe1b)
+  
+![last1](https://github.com/user-attachments/assets/0faaff54-73a4-41e9-84ce-79290a721f74)
+
 
 
 
