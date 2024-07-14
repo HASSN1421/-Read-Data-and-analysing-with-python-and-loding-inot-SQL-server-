@@ -179,7 +179,7 @@
 
 
 
-        #checking in sql server and rename the database and add index column
+        #checking in sql server and rename the table name  and add index column
    ![last](https://github.com/user-attachments/assets/577ebd7f-4d89-40c0-8cfa-2d46e3bfbe1b)
 
 
