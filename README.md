@@ -2,7 +2,7 @@
 
 
 
-# Read Data and analysing with python and loding inot SQL server  
+# Read Data and analyzing with python and loding inot SQL server  
 
 
 ## project description
