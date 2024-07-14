@@ -156,13 +156,13 @@
           !pip install pyodbc
           -------------------------
           #install sqlalchemy and impotr it( provides a flexible and efficient way to work with databases.) 
-          #creat connect with SQL server(AAZ\SQLEXPRESS:server …          ds_df.to_sql('work_year',con=con,index=False,if_exists='replace') 
+          #creat connect with SQL server(AAZ\SQLEXPRESS:server name ,lod=database name )          ds_df.to_sql('work_year',con=con,index=False,if_exists='replace') 
    ![4-1](https://github.com/HASSN1421/-Read-Data-and-analysing-with-python-and-loding-inot-SQL-server-/assets/162873878/d21e2f87-a831-448c-91b5-0a7d61c53ac7)
 
 
 
 
-     #checking in sql serverserver 
+      #checking in sql serverserver 
 
    ![4-1-1](https://github.com/HASSN1421/-Read-Data-and-analysing-with-python-and-loding-inot-SQL-server-/assets/162873878/2db66d02-e511-4530-8d47-59bb85ac9e97)
 
@@ -179,7 +179,10 @@
 
 
 
-        #checking in sql server and add index column
+        #checking in sql server and rename the database and add index column
+   ![last](https://github.com/user-attachments/assets/577ebd7f-4d89-40c0-8cfa-2d46e3bfbe1b)
+
+
 
 
    ![4-2-2](https://github.com/HASSN1421/-Read-Data-and-analysing-with-python-and-loding-inot-SQL-server-/assets/162873878/da6143b5-f367-40ee-9ed4-adad71636522)
